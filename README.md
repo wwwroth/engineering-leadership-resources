@@ -1,5 +1,5 @@
 
-# Leadership Notes
+# Engineering Leadership Notes
 This repository is a compilation of notes and book outlines related to engineering leadership.
 
 ## Books
