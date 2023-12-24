@@ -1,6 +1,6 @@
 # Start with Why: How Great Leaders Inspire Everyone to Take Action
 
-"Start with Why: How Great Leaders Inspire Everyone to Take Action" by Simon Sinek explores several compelling themes centered around leadership, motivation, and organizational success. Here's an overview of its key themes:
+"[Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447?tag=wwwroth-20)" by Simon Sinek explores several compelling themes centered around leadership, motivation, and organizational success. Here's an overview of its key themes:
 
 1.  **The Golden Circle**: Central to Sinek's argument is the concept of the Golden Circle, which consists of three layers - Why, How, and What. He suggests that most companies work from the outside in (What -> How -> Why), but the most successful ones start with 'Why'. The 'Why' refers to the purpose, cause, or belief that drives every organization.
     
